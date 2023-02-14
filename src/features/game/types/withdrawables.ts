@@ -225,6 +225,7 @@ export const WITHDRAWABLES: Record<InventoryItemName, WithdrawCondition> = {
   "Rainbow Artist Bear": true,
   "Devil Bear": true,
   "Christmas Bear": true,
+  "Valentine Bear": false,
   "War Skull": true,
   "War Tombstone": true,
   "Maneki Neko": false,
